@@ -1,0 +1,49 @@
+body { 
+  background:linear-gradient(180deg, #1CD0F8 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, rgba(249, 249, 249, 0) 0%, #FF1D1D 81.77%);
+  width: 375px;
+  height: 667px;  
+  font-family: 'Trebuchet MS';
+  font-style: normal;
+  }
+
+.titulo_inicial{
+  text-align: center;
+  }
+
+.rectangulo_video {
+  width: 312px;
+  height: 290px;
+  background: #FFFFFF;
+  border-radius: 68px;
+  margin:0 auto;
+  }
+
+.icono {
+       margin: 10px 0px 0px 98px; 
+  }   
+
+.fas {
+    margin: 102px 0px 0px 97px;
+  }
+
+.rectangulo_registro{
+
+  background: #5BCFF4;
+  border: 3px solid #0500FF;
+  box-sizing: unset;
+  border-radius: 10px;
+  }
+
+.registro {
+  text-align: center;
+  margin: 40px 0px 0px 0px;
+  }
+
+.o {
+  text-align: center;
+  }
+
+.sesion {
+  font-style: normal;
+  text-align: center;
+  }
